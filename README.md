@@ -1,3 +1,4 @@
+![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/1-BOT-TEAM/Uptime/master/api/website/uptime.json)
 # OFFICIAL WEBSITE
 
 
